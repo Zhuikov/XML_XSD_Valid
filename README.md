@@ -7,13 +7,7 @@ This service will tell you, is XML matches to XSD scheme or not.
 
 ### Run it
 
-In application's directory:
-
-```
-npm install
-```
-
-To build and run docker use:
+To build and run docker with service use in its directory:
 
 ```
 [sudo] npm run docker:build
