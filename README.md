@@ -3,7 +3,7 @@
 ---
 
 ### What is it?
-This service will tell you, is XML matches to XSD scheme or not.
+This service will tell you, is XML matches to XSD-schema or not.
 
 ### Run it
 
